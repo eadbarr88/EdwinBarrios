@@ -1,0 +1,1 @@
+En esta sesion aprendi como instalar el ambiente de trabajo, compuesto por git ,visual studio code y wakatime, asi  como comandos basicos de linux y github.
